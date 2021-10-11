@@ -1,0 +1,45 @@
+{
+    "courseTitle" : "Six Sigma IV - DMAIC - Go! " ,
+    "subTitle":"Analyze" ,
+    "pageTitle":"Check Your Knowledge",
+    "instruction":"Match the relevant area to its characteristic feature.",
+    "instruction1":"When you're done click Submit.",
+    "options":[
+        {
+            "question":"Means that the probability between two variables is NOT a coincidence",
+            "answer":"P=0.03"
+        } ,  
+        {
+            "question":"To visualize a process over time. ",
+            "answer":"run chart"
+        } ,   
+        {
+            "question":"Means that a variable shows a high corelation with another variable.",
+            "answer":"R2=0.87"
+        } ,   
+        {
+            "question":"To visualize a possible corelation between variables.",
+            "answer":"scatter plot"
+        } ,   
+      
+        {
+            "question":"Means that the corelation between several variables is weak.",
+            "answer":"r2=0.38"
+        } ,   
+        {
+            "question":"Means that the probability that a relationship between two variables may be a coincidence.",
+            "answer":"P=0.13"
+        }   , 
+        {
+            "question":"xyZ",
+            "answer":"xx"
+        }        
+        ],
+        "resetButton":{
+            "image":"/resetBtn_en.png",
+            "id":"01"
+        }
+    
+        
+ }
+ 

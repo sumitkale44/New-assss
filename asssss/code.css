@@ -1,0 +1,213 @@
+
+    /* .container{
+        transform-origin: left top;
+        transform: scale(1.502513, 1.502513);
+        left: 0px;
+        top: 230.104px;
+        cursor: default;
+    } */
+
+
+
+
+
+    .titleClass {
+        font-size: 40px;
+
+    }
+    .subTitleClass{
+        font-size: 20px;
+        box-sizing: border-box;
+        /* margin-left: 10px; */
+        border-bottom: 1px solid;
+        
+    }
+    .pageTitleClass{
+        margin-top: 10px;
+        font-family: Trebuchet MS;
+        font-weight: bold;
+        font-size :30px;
+    }
+    .instructionClass{
+        margin-left: 20px;
+        margin-top: 10px;
+        font-size: 20px;
+    }
+    .instruction1Class{
+        margin-left: 20px;
+        margin-top: 5px;
+        font-size: 20px;
+        color: blue;
+    }
+    
+    
+    
+       
+    
+
+
+    
+  
+
+    
+    .contentClass {
+        display: grid;
+        grid-template-columns: 800px 200px 300px !important;
+      
+        
+       
+       
+        gap: 10px;
+        padding: 10px; 
+         
+   }
+    
+
+        .questionsClass{
+            margin-right: 25%;
+            margin-top: 20px;
+            width: 100%
+    
+        }
+        .queDivClass{
+            box-sizing: border-box;
+            margin-bottom: 10px;
+            /* margin-right: 50px; */
+            border: 1px solid;
+            /* padding:20px; */
+            padding-left:5px ;
+            padding-bottom: 5px;
+            background-color: lightgray;
+        }
+        .answersClass{
+            /* display: inline-block; */
+            margin-right: 25%;
+            margin-left: 30%;
+            margin-top: 28px; 
+            float: right;
+            /* position: absolute; */
+            right: 5px;
+            
+            /* left: 5px; */
+            }
+          
+            .ansDivClass {
+                box-sizing: border-box;
+                border: 1px solid;
+                margin-bottom: 15px;
+                /* margin-top: 12px; */
+                text-align: center;
+                padding-bottom: 5px;
+                /* position: absolute; */
+
+               
+            
+                width: 220px;
+            }
+            .ansInDivClass{
+                border: 1px     ;
+                box-sizing: border-box;
+                margin: 5px;
+
+               
+
+            }
+             .blankDivClass {
+              
+                margin-top: 8px;
+                /* position: absolute; */
+                float: left;
+               
+            }
+          
+                
+        .bdiv{
+        box-sizing: border-box;
+        border-style: dotted;
+        margin-bottom: 5px;
+        margin-top: 12px;
+        padding: 12px;
+        text-align: center;
+        
+        
+        padding-bottom: 5px; 
+        
+        
+    }
+    .inDivClass {
+        box-sizing: border-box;
+        opacity: 0;
+        
+    }
+        
+    .resetClass{
+        background-image:  url(resetDisableBtn_en.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 60px;
+        width: 200px;
+        float: left;
+        display: inline-block;
+        cursor: default;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-top: 30px;
+        bottom: 10%;
+        
+    }
+    .resetDisableClass{
+        background-image:  url(resetBtn_en.png);
+        /* background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 60px;
+        width: 200px;
+        float: left;
+        display: inline-block;
+        cursor: default;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-top: 30px; */
+    }
+    .showMeClass{
+        background-image:  url(showMeDisable_en.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 60px;
+        width: 200px;
+        float: left;
+        display: inline-block;
+        cursor: default;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-top: 30px;
+        
+
+
+    }
+    .submitClass{
+        background-image:  url(submitDisableBtn_en.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 60px;
+        width: 200px;
+        float: right;
+        display: inline-block;
+        cursor: default;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-top: 30px;
+        margin-right: 16%;
+
+    }
+  
+    
+
+
+
+
+     /* border: 1px solid;
+                margin-bottom: 10px;
+                padding: 5px;
+                text-align: center;
+                box-sizing: border-box; */
+        /* border-style: dotted; */
